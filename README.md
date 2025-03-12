@@ -1,5 +1,7 @@
 # A simple MERN stack application 
 
+##Containerizing a MERN Stack Application and Deploying using Docker Compose
+
 
 Containerized a MERN stack application using Docker, creating separate containers for the React.js frontend, Node.js backend, and MongoDB database, and established communication using a custom Docker network.
 Automated deployment with Docker Compose, streamlining the process and reducing setup time by 50%, while ensuring persistent storage for MongoDB using Docker volumes.
